@@ -1,0 +1,14 @@
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\bin\Debug\net8.0\TP2-EX2.exe
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\bin\Debug\net8.0\TP2-EX2.deps.json
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\bin\Debug\net8.0\TP2-EX2.runtimeconfig.json
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\bin\Debug\net8.0\TP2-EX2.dll
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\bin\Debug\net8.0\TP2-EX2.pdb
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\TP2-EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\TP2-EX2.AssemblyInfoInputs.cache
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\TP2-EX2.AssemblyInfo.cs
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\TP2-EX2.csproj.CoreCompileInputs.cache
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\TP2-EX2.dll
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\refint\TP2-EX2.dll
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\TP2-EX2.pdb
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\TP2-EX2.genruntimeconfig.cache
+C:\Users\kauan\source\repos\TP2-EX2\TP2-EX2\obj\Debug\net8.0\ref\TP2-EX2.dll
